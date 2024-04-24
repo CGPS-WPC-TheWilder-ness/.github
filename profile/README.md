@@ -1,3 +1,7 @@
-# WPC OPERATOR blairmunroakusa, LLC
+# WPC OPERATOR blairmunroakusa(, LLC)
 
-This organization is dedicated to the individual world piece computer operated by Blair Munro, operator ID blairmunroakusa, organized as limited liability company licensed to do business in ANY LAWFUL.
+Org contains world piece computer operator blairmunroakusa & co.'s online repos, liability limited, NAICS 711510 - Independent Artists, Writers, and Performers.
+
+Start here if you would like a Choose Your Own Adventure 'get-to-know-the-operator' experience:
+
+[_**The Individual**_ ...an AI robot I created to represent me when I away doing other things, or you are uninclined to say hi :) .](https://theindividual.up.computer)
