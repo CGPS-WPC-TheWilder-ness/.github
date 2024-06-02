@@ -1,4 +1,4 @@
-# WPC OPERATOR blairmunroakusa(, LLC)
+# WPC OPERATOR blairmunroakusa (The Wilder-ness WPC, LLC)
 
 Org contains world piece computer operator blairmunroakusa & co.'s online repos, liability limited, NAICS 711510 - Independent Artists, Writers, and Performers.
 
