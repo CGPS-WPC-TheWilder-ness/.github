@@ -4,4 +4,4 @@ Org contains world piece computer operator blairmunroakusa & co.'s online repos,
 
 Start here if you would like a Choose Your Own Adventure 'get-to-know-the-operator' experience:
 
-[_**The Individual**_ ...an AI robot I created to represent me when I away doing other things, or you are uninclined to say hi :) .](https://theindividual.up.computer)
+[_**The Individual**_ ...an AI robot I created to represent me when I away doing other things, or you are uninclined to say hi :) .](https://chatgpt.com/g/g-JpkkzqNML-the-individual-wilder-s-world-piece-computer)
